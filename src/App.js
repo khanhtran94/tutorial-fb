@@ -1,4 +1,3 @@
-// eslint-disable-next-line
 import logo from './logo.svg';
 import './App.css';
 import React from 'react';
@@ -26,3 +25,4 @@ function App() {
 }
 
 export default App;
+/* eslint-disable-line */
